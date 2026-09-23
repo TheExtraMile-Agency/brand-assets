@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -30 760 500" width="760" height="500" role="img" aria-label="The Extra Mile">
+  <path d="M 220,40 H 500 A 180,180 0 0 1 500,400 H 220 A 180,180 0 0 1 220,40 Z" fill="none" stroke="#181a17" stroke-width="14" opacity="0.9"/>
+  <path d="M 232,64 H 488 A 156,156 0 0 1 488,376 H 232 A 156,156 0 0 1 232,64 Z" fill="none" stroke="#181a17" stroke-width="2" opacity="0.16"/>
+  <path d="M 244,88 H 476 A 132,132 0 0 1 476,352 H 244 A 132,132 0 0 1 244,88 Z" fill="none" stroke="#181a17" stroke-width="2" opacity="0.16"/>
+  <path d="M 256,112 H 464 A 108,108 0 0 1 464,328 H 256 A 108,108 0 0 1 256,112 Z" fill="none" stroke="#181a17" stroke-width="2" opacity="0.16"/>
+  <circle cx="500" cy="40" r="38" fill="#FF6A3D"/>
+</svg>
